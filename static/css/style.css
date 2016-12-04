@@ -628,5 +628,9 @@ table {
 
   .footer-copyright {
     padding: 0 10px; } }
+/* Custom shit */
+.-quarter {
+  margin: auto;
+  max-width: 240px; }
 
 /*# sourceMappingURL=style.css.map */
